@@ -8,7 +8,7 @@ void setup()
   servoLeft.attach(13);
   servoRight.attach(12);
 
-  servoLeft.writeMicroseconds(1700);
+  servoLeft.writeMicroseconds(1550);
   servoRight.writeMicroseconds(1300);
 }
 
