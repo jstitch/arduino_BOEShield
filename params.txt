@@ -1,0 +1,26 @@
+Ruedas
+diametro:   6.7000000 cm
+perimetro: 21.0486664 cm
+
+Distancia entre ruedas (radio girando en pivote)
+10.5 cm
+Circunferencia en pivote
+65.973432 cm
+
+Avanza 83.333 milisegs por cm (vel 12 cm / seg)
+2500 milisegs es avanzar ~ 30 cm
+
+Full-speed forward:
+USB - L 1592,93  R 1300
+Batt - L 1598  R 1300
+
+Full-speed backward:
+USB - L 1409  R 1700
+Batt - L 1396 R 1700
+
+
+Left-turn 90°
+795ms
+
+Right-turn 90°
+798ms
